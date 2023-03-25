@@ -41,7 +41,12 @@ enableRobotsTXT = false
   impressum = "/impressum"
   privacy_policy = "/datenschutz"
 
+  [[params.ananke_socials]]
+    name = "Facebook"
+    url = "https://www.facebook.com/profile.php?id=100008396718989"
+    label = "Facebook"
 
-[[params.ananke_socials]]
-  name = "Facebook"
-  url = "https://www.facebook.com/profile.php?id=100008396718989"
+  [[params.ananke_socials]]
+    name = "github"
+    url = "https://github.com/travespielertreffen/travespielertreffen.github.io"
+    label = "Source"
