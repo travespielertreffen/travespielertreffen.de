@@ -24,7 +24,7 @@ enableRobotsTXT = false
   site_logo = "logo.png"
   text_color = ""
   author = "TraveSpielerTreffen e.V."
-  favicon = ""
+  favicon = "images/favicon-32x32.png"
   description = "Der Brett- und Tabletop-Spielverein in der Region Hamburg und Lübeck."
 
   disable_share = true
@@ -34,6 +34,10 @@ enableRobotsTXT = false
   recent_posts_number = 0
   date_format = "2. January 2006"
 
+  # Custom CSS
+  custom_css = ["custom.css"]
+
+  # Custom footer
   impressum = "/impressum"
   privacy_policy = "/datenschutz"
 
