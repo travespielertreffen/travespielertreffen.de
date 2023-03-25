@@ -3,6 +3,9 @@ title: "Impressum"
 date: 2023-03-25T16:47:31+01:00
 draft: false
 type: page
+menu:
+  footer:
+    weight: 10
 ---
 
 # Impressum

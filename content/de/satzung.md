@@ -3,7 +3,9 @@ title: "Satzung"
 date: 2023-03-25T16:40:32+01:00
 draft: false
 type: page
-menu: main
+menu: 
+  main:
+    weight: 20
 ---
 
 ## § 1 Name, Sitz und Rechtsform

@@ -3,7 +3,9 @@ title: "Bankverbindung"
 date: 2023-03-25T16:40:53+01:00
 draft: false
 type: page
-menu: main
+menu: 
+  main:
+    weight: 10
 ---
 
 Für die Mitgliedschaft im TraveSpielerTreffen e.V. werden zur Zeit keine Beiträge erhoben. Für Spenden oder Überweisungen zur Teilnahme an einer unserer Veranstaltungen, hier die Bankverbindung des Vereins:
