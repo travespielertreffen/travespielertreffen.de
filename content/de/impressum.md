@@ -3,12 +3,7 @@ title: "Impressum"
 date: 2023-03-25T16:47:31+01:00
 draft: false
 type: page
-menu:
-  footer:
-    weight: 10
 ---
-
-# Impressum
 
 Postalische Anschrift:
 
@@ -32,9 +27,11 @@ Christian Burmeister
 Klein Barnitz 21b  
 23858 Barnitz
 
-Verantwortlich für journalistisch-redaktionelle Inhalte sind
+Verantwortlich für journalistisch-redaktionelle Inhalte:
 
-- B. Hannig
-- C. Burmeister
+- Burkhard Hannig
+- Christian Burmeister
 
-Das Impressum gilt für Blog und Facebook.
+Erstellung und Hosting der Website:
+
+- [Mike Stojan](https://github.com/fooforge)
