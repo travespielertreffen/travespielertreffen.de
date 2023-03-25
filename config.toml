@@ -43,7 +43,7 @@ enableRobotsTXT = false
 
   [[params.ananke_socials]]
     name = "Facebook"
-    url = "https://www.facebook.com/profile.php?id=100008396718989"
+    url = "https://facebook.com/profile.php?id=100008396718989"
     label = "Facebook"
 
   [[params.ananke_socials]]
