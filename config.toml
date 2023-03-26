@@ -46,7 +46,7 @@ enableRobotsTXT = false
   #  url = "https://www.facebook.com/people/TraveSpieler-Treffen-EV/pfbid0Sak1Q1tcEBt9htF4cmUJVWnFNN9BtHDmdhBRAcAfbT6T7QFd7KqfuZHGHhRgxC3wl/"
   #  label = "Facebook"
 
-  [[params.ananke_socials]]
-    name = "github"
-    url = "https://github.com/travespielertreffen/travespielertreffen.github.io"
-    label = "Source"
+  #[[params.ananke_socials]]
+  #  name = "github"
+  #  url = "https://github.com/travespielertreffen/travespielertreffen.github.io"
+  #  label = "Source"
