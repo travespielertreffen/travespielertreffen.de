@@ -5,7 +5,7 @@ draft: false
 type: page
 menu: 
   main:
-    weight: 10
+    weight: 30
 ---
 
 Für die Mitgliedschaft im TraveSpielerTreffen e.V. werden zur Zeit keine Beiträge erhoben. Für Spenden oder Überweisungen zur Teilnahme an einer unserer Veranstaltungen, hier die Bankverbindung des Vereins:
