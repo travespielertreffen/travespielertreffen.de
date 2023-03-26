@@ -40,7 +40,7 @@ enableRobotsTXT = false
   # Custom footer
   impressum = "/impressum"
   privacy_policy = "/datenschutz"
-  discord = https://discord.gg/cSnJYsBnMz
+  discord = "https://discord.gg/cSnJYsBnMz"
 
   #[[params.ananke_socials]]
   #  name = "Facebook"
