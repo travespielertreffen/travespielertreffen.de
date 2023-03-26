@@ -7,12 +7,15 @@ featured_image: '/images/teaser_grosser-tst.jpg'
 
 Der nächste Grosse TST findet vom 01.09.2023 - 03.09.2023 im KRJ-Haus in Lütjensee statt. Beginn der Veranstaltung ist wie gewohnt Freitag 18 Uhr und das Ende Sonntag 15 Uhr.
 
-Die Preise haben dieses Jahr leider angezogen. Einerseits hat sich die Miete für das KJR Haus erhöht, andererseits haben wir uns entschieden, das Pizzabuffet durch ein Catering zu ersetzen.
+<!--more-->
+
+Welche Spiele und Tabletops auf die Tische kommen, wird sich erst in den kommenden Monaten herausstellen. Wir halten Euch auf dem Laufenden und freuen uns auf Euch!
 
 ### Preisliste
 
 Die Teilnahmegebühr besteht im Regelfall aus einer Eintrittskarte und einem Verpflegungspaket.
 
+Die Preise haben dieses Jahr leider angezogen. Einerseits hat sich die Miete für das KJR Haus erhöht, andererseits haben wir uns entschieden, das Pizzabuffet am Samstag Abend durch ein Catering zu ersetzen.
 #### Eintrittskarten
 
 - **Tageskarte:** Samstag 7,- €
