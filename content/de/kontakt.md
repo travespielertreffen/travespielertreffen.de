@@ -1,8 +1,6 @@
 ---
 title: Kontakt
-featured_image: ''
-omit_header_text: true
-description: We'd love to hear from you
+date: 2023-03-25T16:40:32+01:00
 type: page
 menu: 
   main:
