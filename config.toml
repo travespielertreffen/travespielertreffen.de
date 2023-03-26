@@ -40,6 +40,7 @@ enableRobotsTXT = false
   # Custom footer
   impressum = "/impressum"
   privacy_policy = "/datenschutz"
+  discord = https://discord.gg/cSnJYsBnMz
 
   #[[params.ananke_socials]]
   #  name = "Facebook"
@@ -51,7 +52,7 @@ enableRobotsTXT = false
   #  url = "https://github.com/travespielertreffen/travespielertreffen.github.io"
   #  label = "Source"
 
-  [[params.ananke_socials]]
-    name = "Discord"
-    url = "https://discord.gg/cSnJYsBnMz"
-    label = "Discord"
+  #[[params.ananke_socials]]
+  #  name = "Discord"
+  #  url = "https://discord.gg/cSnJYsBnMz"
+  #  label = "Discord"
