@@ -52,7 +52,7 @@ enableRobotsTXT = false
   #  url = "https://github.com/travespielertreffen/travespielertreffen.github.io"
   #  label = "Source"
 
-  #[[params.ananke_socials]]
-  #  name = "Discord"
-  #  url = "https://discord.gg/cSnJYsBnMz"
-  #  label = "Discord"
+  [[params.ananke_socials]]
+    name = "Discord"
+    url = "https://discord.gg/cSnJYsBnMz"
+    label = "Discord"
