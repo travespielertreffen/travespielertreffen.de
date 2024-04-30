@@ -1,5 +1,5 @@
 ---
-title: "Großer TST 2024"
+title: "Der Große TST 2024"
 date: 2024-04-30
 draft: false
 featured_image: '/images/teaser_grosser-tst.jpg'
@@ -49,14 +49,17 @@ Mitglieder des TST e.V., Spielleiter und Personen unter 16 Jahren bekommen einen
 
 Sowohl das Grillen am Freitag Abend (15,- €) sowie das Buffet am Samstag abend (25,- Euro) sind separat für Tagesgäste buchbar. Eine Voranmeldung ist nötig!
 
+Solltet Ihr Vegetarier sein oder unter Lebensmittelunverträglichkeiten leiden, so teilt uns dieses bitte mit. Zum einen, damit wir bei der Bestellung der Verpflegung die richtigen Mengen ordern können, zum anderen werden wir schauen, was wir euch je nach Unverträglichkeit alternativ anbieten können.
+
+Bitte stellt Euch Euer gewünschtes Veranstaltungspaket selbst zusammen und teilt es uns vor der Überweisung mit, damit wir es bei der Zuordnung des Geldeingangs etwas leichter haben.
+
 #### Weitere Leistungen
 
 Im KJR Haus herrscht Bettwäschepflicht! Bitte bringt eure eigene Bettwäsche mit (Laken und Bezüge), da das KJR Haus nur noch in Notfällen Bettwäsche für einen Betrag i.H.v. 15,- € bereitstellt.
 
 ### Anmeldung
 
-Eine Anmeldung ist zwingend erforderlich. Bitte meldet Euch [per Email](mailto:travespieltreff@aol.com
-) an. Die Anmeldung wird erst mit der überwiesenen Teilnahmegebühr verbindlich bestätigt.
+Eine Anmeldung ist zwingend erforderlich. Bitte meldet Euch [per Email](mailto:travespieltreff@aol.com) an. Die Anmeldung wird erst mit der überwiesenen Teilnahmegebühr verbindlich bestätigt.
 
 ### Adresse
 

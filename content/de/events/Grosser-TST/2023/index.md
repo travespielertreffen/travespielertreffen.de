@@ -1,5 +1,5 @@
 ---
-title: "Großer TST 2023"
+title: "Der Große TST 2023"
 date: 2023-03-25T17:52:29+01:00
 draft: false
 featured_image: '/images/teaser_grosser-tst.jpg'
