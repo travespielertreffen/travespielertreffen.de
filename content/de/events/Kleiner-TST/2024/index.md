@@ -17,7 +17,7 @@ Wir freuen uns auf Euch!
 
 ### Anmeldung
 
-Eine Anmeldung im Discord oder [per Email](travespieltreff@aol.com) ist nicht verbindlich, hilft uns aber bei der Planung.
+Eine Anmeldung im Discord oder [per Email](mailto:travespieltreff@aol.com) ist nicht verbindlich, hilft uns aber bei der Planung.
 
 ### Adresse
 

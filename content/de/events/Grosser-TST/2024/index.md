@@ -55,7 +55,7 @@ Im KJR Haus herrscht Bettwäschepflicht! Bitte bringt eure eigene Bettwäsche mi
 
 ### Anmeldung
 
-Eine Anmeldung ist zwingend erforderlich. Bitte meldet Euch per Email an TraveSpielTreff@aol.com an. Die Anmeldung wird erst mit der überwiesenen Teilnahmegebühr verbindlich bestätigt.
+Eine Anmeldung ist zwingend erforderlich. Bitte meldet Euch [per Email](mailto:travespieltreff@aol.com) an. Die Anmeldung wird erst mit der überwiesenen Teilnahmegebühr verbindlich bestätigt.
 
 ### Adresse
 
