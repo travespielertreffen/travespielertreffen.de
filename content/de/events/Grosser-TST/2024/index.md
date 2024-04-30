@@ -1,11 +1,11 @@
 ---
-title: "Grosser TST 2024"
+title: "Großer TST 2024"
 date: 2024-04-30
 draft: false
 featured_image: '/images/teaser_grosser-tst.jpg'
 ---
 
-Der nächste Grosse TST findet vom 29.08.2024 - 04.09.2024 im KRJ-Haus in Lütjensee statt!
+Der nächste Große TST findet vom 29.08.2024 - 04.09.2024 im KRJ-Haus in Lütjensee statt!
 
 Wie Ihr möglicherweise bereits am Veranstaltungszeitraum festgestellt habt, hat die Teilnehmerbefragung des letzten Jahres den Wunsch nach einem weiteren Tag zum Spielen deutlich gemacht, und wir haben es umsetzen können. Das Treffen schließt dieses Jahr direkt an die Sommerferien an und ermöglicht somit hoffentlich allen eine Teilnahme.
 

@@ -1,11 +1,11 @@
 ---
-title: "Grosser TST 2023"
+title: "Großer TST 2023"
 date: 2023-03-25T17:52:29+01:00
 draft: false
 featured_image: '/images/teaser_grosser-tst.jpg'
 ---
 
-Der nächste Grosse TST findet vom 01.09.2023 - 03.09.2023 im KRJ-Haus in Lütjensee statt. Beginn der Veranstaltung ist wie gewohnt Freitag 18 Uhr und das Ende Sonntag 15 Uhr.
+Der nächste Große TST findet vom 01.09.2023 - 03.09.2023 im KRJ-Haus in Lütjensee statt. Beginn der Veranstaltung ist wie gewohnt Freitag 18 Uhr und das Ende Sonntag 15 Uhr.
 
 <!--more-->
 
