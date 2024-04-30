@@ -1,6 +1,6 @@
 ---
 title: "Großer TST 2024"
-date: 2024-04-30
+date: 2024-05-01
 draft: false
 featured_image: '/images/teaser_grosser-tst.jpg'
 ---
