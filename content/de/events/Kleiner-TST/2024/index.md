@@ -1,5 +1,5 @@
 ---
-title: "Kleiner TST - Juni 2023"
+title: "Kleiner TST - Juni 2024"
 date: 2024-04-30
 draft: false
 featured_image: 'images/teaser_kleiner-tst.jpg'
