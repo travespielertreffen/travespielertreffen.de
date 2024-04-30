@@ -9,7 +9,7 @@ Der nächste Große TST findet vom 29.08.2024 bis zum 01.09.2024 im KRJ-Haus in 
 
 <!--more-->
 
-Wie Ihr möglicherweise bereits am Veranstaltungszeitraum festgestellt habt, hat die Teilnehmerbefragung des letzten Jahres den Wunsch nach einem weiteren Tag zum Spielen deutlich gemacht, und wir haben es umsetzen können. Das Treffen schließt dieses Jahr direkt an die Sommerferien an und ermöglicht somit hoffentlich allen eine Teilnahme.
+Wie ihr möglicherweise bereits am Veranstaltungszeitraum festgestellt habt, hat die Teilnehmerbefragung des letzten Jahres den Wunsch nach einem weiteren Tag zum Spielen deutlich gemacht, und wir haben es umsetzen können. Das Treffen schließt dieses Jahr direkt an die Sommerferien an und ermöglicht somit hoffentlich allen eine Teilnahme.
 
 ### Der neue Veranstaltungsablauf
 
@@ -31,7 +31,7 @@ Am Sonntag frühstücken wir noch gemeinsam. Danach ist Zeit für den Abbau und 
 
 ### Preisliste
 
-Die Teilnahmegebühr besteht im Regelfall aus einer Eintrittskarte und einem Verpflegungspaket. Solltet Ihr Fragen haben, kontaktiert uns gerne.
+Die Teilnahmegebühr besteht im Regelfall aus einer Eintrittskarte und einem Verpflegungspaket. Solltet ihr Fragen haben, kontaktiert uns gerne.
 
 #### Eintrittskarten
 
@@ -49,7 +49,7 @@ Mitglieder des TST e.V., Spielleiter und Personen unter 16 Jahren bekommen einen
 
 Sowohl das Grillen am Freitag Abend (15,- €) sowie das Buffet am Samstag abend (25,- Euro) sind separat für Tagesgäste buchbar. Eine Voranmeldung ist nötig!
 
-Solltet Ihr Vegetarier sein oder unter Lebensmittelunverträglichkeiten leiden, so teilt uns dieses bitte mit. Zum einen, damit wir bei der Bestellung der Verpflegung die richtigen Mengen ordern können, zum anderen werden wir schauen, was wir euch je nach Unverträglichkeit alternativ anbieten können.
+Solltet ihr Vegetarier sein oder unter Lebensmittelunverträglichkeiten leiden, so teilt uns dieses bitte mit. Zum einen, damit wir bei der Bestellung der Verpflegung die richtigen Mengen ordern können, zum anderen werden wir schauen, was wir euch je nach Unverträglichkeit alternativ anbieten können.
 
 Bitte stellt Euch Euer gewünschtes Veranstaltungspaket selbst zusammen und teilt es uns vor der Überweisung mit, damit wir es bei der Zuordnung des Geldeingangs etwas leichter haben.
 
@@ -60,6 +60,8 @@ Im KJR Haus herrscht Bettwäschepflicht! Bitte bringt eure eigene Bettwäsche mi
 ### Anmeldung
 
 Eine Anmeldung ist zwingend erforderlich. Bitte meldet Euch [per Email](mailto:travespieltreff@aol.com) an. Die Anmeldung wird erst mit der überwiesenen Teilnahmegebühr verbindlich bestätigt.
+
+Welche Tabletops, Brett- und Miniaturenspiele sowie Rollenspiele wir anbieten werden, geben wir euch in den Monaten vor der Veranstaltung bekannt. Habt ihr bereits Pläne, was ihr beim Großen TST präsentieren wollt, meldet euch gerne vorab und lasst es uns wissen!
 
 ### Adresse
 
