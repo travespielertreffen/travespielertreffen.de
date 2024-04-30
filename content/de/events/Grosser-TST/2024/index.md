@@ -11,7 +11,7 @@ Wie Ihr möglicherweise bereits am Veranstaltungszeitraum festgestellt habt, hat
 
 <!--more-->
 
-### Der neue Veranstaltungsablauf:
+### Der neue Veranstaltungsablauf
 
 #### Donnerstag
 
