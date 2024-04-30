@@ -11,7 +11,7 @@ Wie Ihr möglicherweise bereits am Veranstaltungszeitraum festgestellt habt, hat
 
 <!--more-->
 
-### Der neue Veranstaltungsablauf:
+### Der neue Veranstaltungsablauf
 
 #### Donnerstag
 
@@ -24,6 +24,8 @@ Der Freitag beginnt mit dem gewohnten Frühstücksbuffet. Ab 10:00 Uhr stehen da
 #### Samstag
 
 Der Samstag verläuft wie gewohnt mit dem Frühstücksbuffet und ab 10:00 Uhr gehen die Spiele weiter. Auch das gemeinsame Abendessen ist wieder geplant, wobei wir derzeit (Stand April 2024) noch nicht genau wissen, was es diesmal geben wird; da ist das Orgateam noch dran.
+
+#### Sonntag
 
 Am Sonntag frühstücken wir noch gemeinsam. Danach ist Zeit für den Abbau und ggf. ein paar kurze Spielrunden, sodass wir die Veranstaltung gegen 14:00 Uhr beenden.
 
