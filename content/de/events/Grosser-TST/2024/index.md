@@ -37,7 +37,7 @@ Die Teilnahmegebühr besteht im Regelfall aus einer Eintrittskarte und einem Ver
 
 - **Tageskarte** 5,- € (Tagesgast am Freitag oder Samstag)
 - **Wochenendkarte** 7,50 € (Tagesgäste WE ohne Übernachtung)
-- **Wochenendkarte** 35,- € (Gäste mit Übernachtung)
+- **Übernachtungskarte** 35,- € (Gäste mit Übernachtung)
 
 Mitglieder des TST e.V., Spielleiter und Personen unter 16 Jahren bekommen einen Rabatt i.H.v. 5,- € auf die Wochenendkarte mit Übernachtung. Uns stehen 54 Betten zur Verfügung. Sobald das Bettenkontigent ausgebucht ist, wird die Übernachtungskarte nicht mehr angeboten. Der Anmeldeschluß ist der 14.08.2024.
 
