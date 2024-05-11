@@ -27,32 +27,24 @@ enableRobotsTXT = false
   favicon = "images/favicon-32x32.png"
   description = "Der Brett- und Tabletop-Spielverein in der Region Hamburg und Lübeck."
 
-  disable_share = true
+  #disable_share = true
 
-  # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-near-black"
-  recent_posts_number = 0
-  date_format = "2. January 2006"
+  [[params.ananke_socials]]
+  name = "Facebook"
+  url = "https://www.facebook.com/people/TraveSpieler-Treffen-EV/pfbid0Sak1Q1tcEBt9htF4cmUJVWnFNN9BtHDmdhBRAcAfbT6T7QFd7KqfuZHGHhRgxC3wl/"
 
-  # Custom CSS
-  custom_css = ["custom.css"]
+  [[params.ananke_socials]]
+  name = "Discord"
+  url = "https://discord.gg/cSnJYsBnMz"
 
-  # Custom footer
-  impressum = "/impressum"
-  privacy_policy = "/datenschutz"
-  discord = "https://discord.gg/cSnJYsBnMz"
+# choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+background_color_class = "bg-near-black"
+recent_posts_number = 0
+date_format = "2. January 2006"
 
-  #[[params.ananke_socials]]
-  #  name = "Facebook"
-  #  url = "https://www.facebook.com/people/TraveSpieler-Treffen-EV/pfbid0Sak1Q1tcEBt9htF4cmUJVWnFNN9BtHDmdhBRAcAfbT6T7QFd7KqfuZHGHhRgxC3wl/"
-  #  label = "Facebook"
+# Custom CSS
+custom_css = ["custom.css"]
 
-  #[[params.ananke_socials]]
-  #  name = "github"
-  #  url = "https://github.com/travespielertreffen/travespielertreffen.github.io"
-  #  label = "Source"
-
-  #[[params.ananke_socials]]
-  #  name = "Discord"
-  #  url = "https://discord.gg/cSnJYsBnMz"
-  #  label = "Discord"
+# Custom footer
+impressum = "/impressum"
+privacy_policy = "/datenschutz"
