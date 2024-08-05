@@ -71,4 +71,4 @@ In nicht einmal drei Wochen ist es soweit bis wir uns wie jedes Jahr zum Großen
 
 # Rollenspiel
 
-Ausser einem ominösen "D&D Abenteuer in 3D" ist bislang noch nichts angemeldet worden. Man darf also gespannt sein! ;-)
+Ausser einem ominösen "D&D Abenteuer in 3D" ist bislang noch nichts angemeldet worden. Man darf also gespannt sein! Wie gewohnt finden sich aber mit Sicherheit wieder spontane Runden für Fiasko oder vergleichbare One-shot Abenteuer zusammen.
