@@ -7,6 +7,8 @@ featured_image: '/images/teaser_grosser-tst.jpg'
 
 In nicht einmal drei Wochen ist es soweit bis wir uns wie jedes Jahr zum Grossen TST in Luetjensee treffen. Zeit also, mal [einen Blick darauf zu werfen](https://boardgamegeek.com/geeklist/340544/grosser-tst-2024), was die Teilnehmer bisher so alles an Spielen bei uns angemeldet haben!
 
+<!--more-->
+
 # Brettspiele
 
 ## Diplomacy
