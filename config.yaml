@@ -35,13 +35,13 @@ params:
   favicon: images/favicon-32x32.png
   description: Der Brett- und Tabletop-Spielverein in der Region Hamburg und Lübeck.
   
-  ananke_socials:
-    - name: Facebook
-      label: "facebook"
-      url: https://www.facebook.com/people/TraveSpieler-Treffen-EV/pfbid0Sak1Q1tcEBt9htF4cmUJVWnFNN9BtHDmdhBRAcAfbT6T7QFd7KqfuZHGHhRgxC3wl/
-    - name: Discord
-      label: "discord"
-      url: https://discord.gg/cSnJYsBnMz
+#  ananke_socials:
+#    - name: Facebook
+#      label: "facebook"
+#      url: https://www.facebook.com/people/TraveSpieler-Treffen-EV/#pfbid0Sak1Q1tcEBt9htF4cmUJVWnFNN9BtHDmdhBRAcAfbT6T7QFd7KqfuZHGHhRgxC3wl/
+#    - name: Discord
+#      label: "discord"
+#      url: https://discord.gg/cSnJYsBnMz
 
 impressum: /impressum
 privacy_policy: /datenschutz
