@@ -67,7 +67,7 @@ In nicht einmal drei Wochen ist es soweit bis wir uns wie jedes Jahr zum Großen
 
 ## Warhammer - The Old World | Oldhammer
 ![Warhammer - The Old World Regelwerk](images/tt_oldworld.jpg)
-[Oldhammer Forum](https://forum.oldhammer.org/)
+[Offizielle Website](https://theoldworld.com/) | [Oldhammer Forum](https://forum.oldhammer.org/)
 
 # Rollenspiel
 
