@@ -25,13 +25,13 @@ _"Eine schöne Lübecker Bucht haben sie da. Wäre doch schade, wenn meine Kanon
 ![alt](images/bg_eclipse.jpg)
 [BoardGameGeek](https://boardgamegeek.com/image/5235277/eclipse-second-dawn-for-the-galaxy) | [Offizielle Website](https://en.lautapelit.fi/product/24681/eclipse---2nd-dawn-for-the-galaxy)
 
-Eclipse gibt euch Kontrolle über eine ausserirdische Zivilisation, die zum intergalaktischen Ruhm geführt werden will. Ein klassisches 4X (Explore, Expand, Exploit, Exterminate) Brettspiel mit einer Prise Euro game Flair.
+Eclipse gibt euch Kontrolle über eine ausserirdische Zivilisation, die zum intergalaktischen Ruhm geführt werden will. Ein klassisches 4X (_Explore, Expand, Exploit, Exterminate_) Brettspiel mit einer Prise Euro game Flair.
 
 ## The Edge: Dawnfall
 ![The Edge: Dawnfall box art](images/bg_the-edge-dawnfall.jpg)
 [BoardGameGeek](https://boardgamegeek.com/boardgame/207729/the-edge-dawnfall) | [Offizielle Website](https://awakenrealms.com/games/awaken-realms/the-edge-dawnfall)
 
-The Edge: Dawnfall ist (laut Website) ein dynamisches Miniatur- und Kartenspiel mit Territorialkontrollelementen sowie einem Kampagnenmodul. Wenn das Spiel so komplex ist wie die deutsche Sprache dann erwartet uns da sicherlich eine Spieleperle!
+The Edge: Dawnfall ist (laut BGG) ein dynamisches Miniatur- und Kartenspiel mit Territorialkontrollelementen sowie einem Kampagnenmodul. Wenn das Spiel so komplex ist wie die deutsche Sprache dann erwartet uns da sicherlich eine Spieleperle!
 
 ## Mansions of Madness - Second Edition
 ![alt](images/bg_mansions_of_madness.jpg)
@@ -61,7 +61,7 @@ Es sind die 1920er Jahre, ihr seid in Chicago und eure Gang versucht verzweifelt
 ![alt](images/bg_too-many-bones.png)
 [BoardGameGeek](https://boardgamegeek.com/boardgame/192135/too-many-bones) | [Offizielle Website](https://chiptheorygames.com/games/too-many-bones/)
 
-Ein weiteres Spiel aus der Reihe "Noch nie gehört, aber der Name ist schön und die Bewertungen bei BGG auch!" Wir sind gespannt.
+Ein weiteres Spiel aus der Reihe "Noch nie gehört, aber der Name und die Bilder sind schön und die Bewertungen bei BGG auch!" Wir sind gespannt.
 
 ## Trudvang Legends
 ![Trudvang Legends box art](images/bg_trudvang-legends.jpg)
