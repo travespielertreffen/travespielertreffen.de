@@ -37,7 +37,7 @@ The Edge: Dawnfall ist (laut BGG) ein dynamisches Miniatur- und Kartenspiel mit 
 ![alt](images/bg_mansions_of_madness.jpg)
 [BoardGameGeek](https://boardgamegeek.com/boardgame/205059/mansions-of-madness-second-edition) | [Offizielle Website](https://www.fantasyflightgames.com/en/mansions-of-madness-second-edition/products/mansions-madness-second-edition/)
 
-Mansions of Madness ist ein Klassiker angesiedelt in H.P. Lovecraft's Cthulhu Universum. Übernehmt einen Ermittler und kommt dem Mythos auf die Spur -- oder werdet zum Kultisten und spielt fortan für das Spiel und gegen die Gruppe.
+Mansions of Madness ist ein Klassiker angesiedelt in H.P. Lovecraft's Cthulhu Universum. Übernehmt einen Ermittler und kommt dem Mythos auf die Spur, werdet zum Kultisten und spielt fortan für das Spiel und gegen die Gruppe oder lasst euch einfach vom Wahnsinn verschlingen.
 
 ## Nemesis
 ![alt](images/bg_nemesis.png)
