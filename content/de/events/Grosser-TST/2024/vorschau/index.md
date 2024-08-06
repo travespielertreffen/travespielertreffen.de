@@ -19,7 +19,7 @@ Falls ihr weitere Spiele anmelden möchtet, meldet euch gerne in unserem Discord
 
 Diplomacy gehört zu den ältesten, modernen Brettspielen und es tut genau das, was der Name verspricht:
 
-_"Eine schöne Lübecker Bucht haben sie da. Wäre doch schade, wenn meine Kanonenboote sie blockieren müssten. Wir erwarten ihre erste Marzipanlieferung Montag nach dem Großen TST!"_
+_"Eine schöne Lübecker Bucht haben sie da. Wäre doch schade, wenn meine Kanonenboote die blockieren müssten. Wir erwarten ihre erste Marzipanlieferung Montag nach dem Großen TST!"_
 
 ## Eclipse - New Dawn for the Galaxy
 ![alt](images/bg_eclipse.jpg)
