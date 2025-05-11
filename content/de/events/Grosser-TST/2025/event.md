@@ -5,13 +5,11 @@ draft: false
 featured_image: '/images/teaser_grosser-tst.jpg'
 ---
 
-Der nächste Große TST findet vom 18.09.2025 bis zum 21.09.2025 im KRJ-Haus in Lütjensee statt und damit deutlich später als gewohnt.
+Der nächste Große TST findet vom 18.09.2025 bis zum 21.09.2025 im KRJ-Haus in Lütjensee statt und damit deutlich später als gewohnt. Dafür wird auch dieses Jahr wieder einen Tag früher angefangen zu spielen.
 
 <!--more-->
 
-Wie ihr möglicherweise bereits am Veranstaltungszeitraum festgestellt habt, hat die Teilnehmerbefragung des letzten Jahres den Wunsch nach einem weiteren Tag zum Spielen deutlich gemacht, und wir haben es umsetzen können. Das Treffen schließt dieses Jahr direkt an die Sommerferien an und ermöglicht somit hoffentlich allen eine Teilnahme.
-
-### Der neue Veranstaltungsablauf
+### Der Veranstaltungsablauf
 
 #### Donnerstag
 
