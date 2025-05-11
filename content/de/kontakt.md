@@ -9,6 +9,6 @@ menu:
 
 Bei Fragen könnt ihr euch gerne mit uns mittels unserem Kontaktformular in Verbindung setzen. Wir melden uns dann per Email zeitnah zurück.
 
-Unser aktuelles Beitrittsformular findet ihr [hier zum Download](beitrittsformular.pdf).
+Unser aktuelles Beitrittsformular findet ihr [hier zum Download](/beitrittsformular.pdf).
 
 {{< form-contact action="https://formspree.io/f/mqkodnbz"  >}}

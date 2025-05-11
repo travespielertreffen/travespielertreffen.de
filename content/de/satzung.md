@@ -113,4 +113,4 @@ Bei Aufl√∂sung oder Aufhebung des Vereins hat die letzte Mitgliederversammlung √
 **Ort, Datum**  
 Neritz, 17.10.2015
 
-Unser aktuelles Beitrittsformular findet ihr [hier zum Download](beitrittsformular.pdf).
+Unser aktuelles Beitrittsformular findet ihr [hier zum Download](/beitrittsformular.pdf).
