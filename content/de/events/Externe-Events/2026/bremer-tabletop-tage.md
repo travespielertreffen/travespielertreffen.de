@@ -24,10 +24,10 @@ Hier im Wortlaut die Ankündigung des Teams der Veranstaltung für Interessierte
 > Wir bitten also um Eure Zusagen und die entsprechenden Daten.
 > 
 > --
-> Bremer Tabletoptage
-> Wann: 21.-22.03.2026
-> Wo: Europaschule Schulzentrum Utbremen
+> Bremer Tabletoptage  
+> Wann: 21.-22.03.2026  
+> Wo: Europaschule Schulzentrum Utbremen  
 > Meta-Sattler-Str. 33, 28217 Bremen
 >  
-> www.bremertabletoptage.de
+> www.bremertabletoptage.de  
 > team@bremertabletoptage.de
