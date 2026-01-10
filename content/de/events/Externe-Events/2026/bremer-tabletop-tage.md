@@ -1,6 +1,6 @@
 ---
 title: "Bremer TableTop Tage 2026"
-date: 2026-01-10
+date: 2026-01-08
 draft: false
 featured_image: '/images/BTTT_Logo_RGB_BLAU.png'
 ---

@@ -1,6 +1,6 @@
 ---
 title: "1. Kleiner TST - Januar 2026"
-date: 2026-01-10
+date: 2026-01-09
 draft: false
 featured_image: 'images/teaser_kleiner-tst.jpg'
 ---
