@@ -15,4 +15,4 @@ Beginn der Veranstaltung ist jeweils ab 10:30 Uhr und das Ende bestimmt Ihr weit
 
 Ihr könnt Euch auch gerne an unseren Abendverpflegungen teilnehmen. Das Grillen am Freitagabend liegt bei 15,- Euro und das Buffet am Samstagabend liegt bei 25,- Euro. Beide Abendverpflegungen werden auch in vegetarischer Variante angeboten.
 
-Die Buchung erfolgt ausschließlich per Vorkasse auf unser Vereinskonto. Hierzu bitte am besten vorher mit uns in Kontakt treten via [mailto:travespieltreff@aol.com](travespieltreff@aol.com).
+Die Buchung erfolgt ausschließlich per Vorkasse auf unser Vereinskonto. Hierzu bitte am besten vorher mit uns in Kontakt treten via [travespieltreff@aol.com](mailto:travespieltreff@aol.com).
