@@ -1,6 +1,6 @@
 ---
-title: "Der Große TST 2026"
-date: 2026-06-97
+title: "Update zum Großen TST 2026"
+date: 2026-06-08
 draft: false
 featured_image: '/images/teaser_grosser-tst.jpg'
 ---
