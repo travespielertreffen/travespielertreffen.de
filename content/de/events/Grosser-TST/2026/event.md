@@ -1,10 +1,16 @@
 ---
 title: "Der Große TST 2026"
-date: 2026-01-10
+date: 2026-06-97
 draft: false
 featured_image: '/images/teaser_grosser-tst.jpg'
 ---
 
-Der Große TST 2026 findet vom 29.10.2026 bis 01.11.2026 im KRJ-Haus in Lütjensee statt und damit nochmals deutlich später als gewohnt. Die Gründe dafür sind Sanierungsarbeiten seitens des KJR-Hauses dieses Jahr.
+Die Sanierungsarbeiten im KJR Haus kommen gut voran. Für unser zwanzigjähriges Veranstaltungsjubiläum gibt es jedoch nur noch Tageskarten zu erwerben.
 
-Weitere Informationen bzgl. Anmeldung, Preise, Veranstaltungsablauf, etc. reichen wir bald nach.
+Die Tageskarte für Freitag oder Samstag kostet 5,- Euro. Solltet ihr an beiden Tage teilnehmen wollen, so gibt es die Kombikarte für 7,50 Euro.
+
+Beginn der Veranstaltung ist jeweils ab 10:30 Uhr und das Ende bestimmt Ihr weitgehend selbst.
+
+Ihr könnt Euch auch gerne an unseren Abendverpflegungen teilnehmen. Das Grillen am Freitagabend liegt bei 15,- Euro und das Buffet am Samstagabend liegt bei 25,- Euro. Beide Abendverpflegungen werden auch in vegetarischer Variante angeboten.
+
+Die Buchung erfolgt ausschließlich per Vorkasse auf unser Vereinskonto. Hierzu bitte am besten vorher mit uns in Kontakt treten via [mailto:travespieltreff@aol.com](travespieltreff@aol.com).
