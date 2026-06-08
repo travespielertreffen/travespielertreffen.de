@@ -7,6 +7,8 @@ featured_image: '/images/teaser_grosser-tst.jpg'
 
 Die Sanierungsarbeiten im KJR Haus kommen gut voran. Für unser zwanzigjähriges Veranstaltungsjubiläum gibt es jedoch nur noch Tageskarten zu erwerben.
 
+<!--more-->
+
 Die Tageskarte für Freitag oder Samstag kostet 5,- Euro. Solltet ihr an beiden Tage teilnehmen wollen, so gibt es die Kombikarte für 7,50 Euro.
 
 Beginn der Veranstaltung ist jeweils ab 10:30 Uhr und das Ende bestimmt Ihr weitgehend selbst.
